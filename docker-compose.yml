@@ -1,0 +1,53 @@
+# Career Mind — full stack: MySQL database + Python AI service + PHP web app.
+# Run everything with:  docker compose up --build
+# Then open:            http://localhost:8080
+services:
+  db:
+    image: mysql:8.0
+    environment:
+      MYSQL_ROOT_PASSWORD: careermind
+      MYSQL_DATABASE: career_mind
+    # On first start, every .sql file here is imported automatically. The dump
+    # already contains CREATE DATABASE + all tables and data.
+    volumes:
+      - ./database/career_mind.sql:/docker-entrypoint-initdb.d/01-career_mind.sql:ro
+      - db_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "root", "-pcareermind"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  ai:
+    build: ./career-mind-ai
+    environment:
+      DB_HOST: db
+      DB_PORT: "3306"
+      DB_NAME: career_mind
+      DB_USER: root
+      DB_PASS: careermind
+    # Wait until MySQL is actually accepting connections, not just started.
+    depends_on:
+      db:
+        condition: service_healthy
+
+  web:
+    build: ./career-mind-web
+    environment:
+      DB_HOST: db
+      DB_PORT: "3306"
+      DB_NAME: career_mind
+      DB_USER: root
+      DB_PASS: careermind
+      # Reach the AI service by its compose service name on the private network.
+      AI_BASE_URL: http://ai:5001
+    ports:
+      - "8080:80"
+    depends_on:
+      db:
+        condition: service_healthy
+      ai:
+        condition: service_started
+
+volumes:
+  db_data:

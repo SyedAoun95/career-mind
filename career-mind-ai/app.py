@@ -316,4 +316,11 @@ def _load_career_metadata() -> Dict[str, Any]:
 if __name__ == "__main__":
     # threaded=True so health + predict (and overlapping page loads) don't block
     # each other; debug=False avoids the reloader dropping in-flight requests.
-    app.run(host="127.0.0.1", port=5001, threaded=True, debug=False)
+    # Host/port come from env so Docker can bind 0.0.0.0 (reachable across the
+    # container network); locally they default to 127.0.0.1:5001 as before.
+    app.run(
+        host=os.getenv("FLASK_RUN_HOST", "127.0.0.1"),
+        port=int(os.getenv("FLASK_RUN_PORT", "5001")),
+        threaded=True,
+        debug=False,
+    )
