@@ -1,0 +1,11 @@
+title,description,required_skills
+Shopify Developer,Builds and customises Shopify e-commerce stores,"Shopify, Liquid, JavaScript, HTML, CSS, REST API"
+WordPress Developer,Develops and maintains WordPress sites and themes,"WordPress, PHP, MySQL, HTML, CSS, JavaScript"
+React Developer,Builds interactive web UIs with React,"React, JavaScript, TypeScript, HTML, CSS, REST API"
+Angular Developer,Builds enterprise web apps with Angular,"Angular, TypeScript, RxJS, HTML, CSS"
+Django Developer,Builds backend web applications with Django,"Python, Django, REST API, PostgreSQL, Git"
+Python Developer,General-purpose Python application developer,"Python, Flask, FastAPI, SQL, Git"
+AI Engineer,Designs and ships machine-learning systems,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch"
+Data Analyst,Turns raw data into business insights,"SQL, Excel, Power BI, Tableau, Statistics"
+DevOps Engineer,Automates build, deployment and infrastructure,"Docker, Kubernetes, AWS, CI/CD, Linux, Terraform"
+UI/UX Designer,Designs user interfaces and experiences,"Figma, Adobe XD, Wireframing, Prototyping, User Research"

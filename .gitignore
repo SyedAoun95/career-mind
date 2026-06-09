@@ -1,0 +1,23 @@
+# Local Python environments
+.venv/
+venv/
+career-mind-ai/venv/
+
+# IDE/editor
+.vscode/
+
+# Local generated files
+cleanup_query.php
+delete_cvs.php
+career-mind-web/storage/
+career-mind-web/public/uploads/cv/
+__pycache__/
+*.pyc
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime logs
+logs/

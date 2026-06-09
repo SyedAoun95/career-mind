@@ -1,0 +1,177 @@
+skills,interests,education,tools,experience_level,career
+"python, django, rest api, sql","backend systems, scalability","BS Computer Science","docker, git, postgresql","entry",Software Developer
+"python, flask, api integration","web services, automation","BS Software Engineering","git, redis, postman","junior",Software Developer
+"php, laravel, mysql","web applications, refactoring","BS Computer Science","git, docker, mysql","junior",Software Developer
+"javascript, typescript, node","full stack, performance","BS Computer Science","git, github actions, redis","mid",Software Developer
+"java, spring, sql","enterprise systems, microservices","BS Computer Science","docker, kafka, mysql","mid",Software Developer
+"python, fastapi, sql","backend services, reliability","BS Computer Science","git, docker, postgres","entry",Software Developer
+"c#, .net, sql","api development, maintainability","BS Computer Science","azure devops, git","mid",Software Developer
+"go, grpc, sql","high performance services","BS Computer Science","docker, kubernetes","senior",Software Developer
+"python, testing, clean code","engineering quality, collaboration","BS Computer Science","pytest, git, github","entry",Software Developer
+"sql, data modeling, api","backend architecture","BS Computer Science","dbt, git, postman","mid",Software Developer
+"frontend, javascript, api","web products, UX","BS Computer Science","react, git","junior",Software Developer
+"python, celery, redis","task queues, automation","BS Computer Science","docker, redis, git","mid",Software Developer
+"c++, algorithms, sql","system design, optimization","BS Computer Science","cmake, git, mysql","senior",Software Developer
+"php, symfony, sql","backend features, maintenance","BS Computer Science","git, docker","junior",Software Developer
+"python, pandas, api","backend analytics services","BS Computer Science","docker, postgres","entry",Software Developer
+"ruby, rails, sql","web apps, teamwork","BS Computer Science","git, heroku","junior",Software Developer
+"python, grpc, monitoring","distributed systems","BS Computer Science","prometheus, docker","senior",Software Developer
+"java, spring boot, sql","microservices, integrations","BS Computer Science","git, maven","mid",Software Developer
+"typescript, node, sql","api development, testing","BS Computer Science","jest, git, docker","junior",Software Developer
+"python, api security, sql","secure backend","BS Computer Science","docker, postgres","mid",Software Developer
+"sql, excel, data cleaning","business insights","BS Statistics","power bi, excel","entry",Data Analyst
+"python, pandas, sql","analytics, reporting","BS Data Science","jupyter, matplotlib","junior",Data Analyst
+"sql, tableau, data visualization","dashboards, storytelling","BS Business Analytics","tableau, excel","junior",Data Analyst
+"excel, statistics, reporting","kpi tracking","BS Economics","excel, google sheets","entry",Data Analyst
+"python, seaborn, sql","trend analysis","BS Data Science","jupyter, pandas","junior",Data Analyst
+"sql, data modeling, etl","data pipelines","BS Computer Science","dbt, airflow","mid",Data Analyst
+"r, statistics, sql","market research","BS Statistics","r, excel","entry",Data Analyst
+"sql, window functions, reporting","retention analysis","BS Business","power bi, excel","junior",Data Analyst
+"python, api data, sql","product analytics","BS Data Science","pandas, jupyter","mid",Data Analyst
+"excel, pivot tables, sql","operations analysis","BS Business Analytics","excel, power bi","entry",Data Analyst
+"python, forecasting, sql","demand planning","BS Statistics","prophet, pandas","mid",Data Analyst
+"sql, dashboards, metrics","growth analytics","BS Business","tableau, google data studio","junior",Data Analyst
+"python, data quality, sql","data governance","BS Data Science","great expectations, pandas","mid",Data Analyst
+"excel, reporting, kpis","finance analytics","BS Finance","excel, power bi","entry",Data Analyst
+"python, scipy, sql","experiment analysis","BS Data Science","jupyter, seaborn","junior",Data Analyst
+"sql, data warehousing, etl","warehouse modeling","BS Computer Science","snowflake, dbt","mid",Data Analyst
+"python, sql, visualization","customer insights","BS Business Analytics","matplotlib, power bi","entry",Data Analyst
+"excel, sql, data validation","audit analytics","BS Accounting","excel, sql","entry",Data Analyst
+"sql, churn analysis, reporting","customer success","BS Business","tableau, excel","junior",Data Analyst
+"python, data extraction, sql","data integration","BS Data Science","requests, pandas","junior",Data Analyst
+"networking, siem, incident response","threat monitoring","BS Computer Science","splunk, wireshark","entry",Cybersecurity Analyst
+"linux, log analysis, security","soc operations","BS Information Security","elk, osquery","junior",Cybersecurity Analyst
+"vulnerability scanning, risk assessment","compliance, audit","BS Information Security","nessus, qualys","junior",Cybersecurity Analyst
+"firewalls, ids/ips, networking","network defense","BS Computer Science","palo alto, snort","mid",Cybersecurity Analyst
+"malware analysis, forensics","incident handling","BS Information Security","volatility, yara","mid",Cybersecurity Analyst
+"cloud security, iam","secure cloud systems","BS Computer Science","aws, azure","mid",Cybersecurity Analyst
+"phishing analysis, email security","user awareness","BS Information Security","mimecast, splunk","entry",Cybersecurity Analyst
+"siem, log correlation, triage","threat hunting","BS Information Security","splunk, elastic","junior",Cybersecurity Analyst
+"penetration testing, web security","owasp","BS Computer Science","burp suite, nmap","mid",Cybersecurity Analyst
+"patch management, hardening","system security","BS Information Security","ansible, linux","entry",Cybersecurity Analyst
+"risk management, compliance","policy enforcement","BS Information Security","grc tools","senior",Cybersecurity Analyst
+"endpoint security, edr","incident response","BS Computer Science","crowdstrike, defender","junior",Cybersecurity Analyst
+"network monitoring, packet analysis","security operations","BS Computer Science","wireshark, zeek","entry",Cybersecurity Analyst
+"identity access, zero trust","security architecture","BS Information Security","okta, azure ad","mid",Cybersecurity Analyst
+"security auditing, logging","governance","BS Information Security","elastic, auditd","mid",Cybersecurity Analyst
+"threat intel, reporting","security strategy","BS Information Security","misp, splunk","senior",Cybersecurity Analyst
+"web app security, sdlc","secure development","BS Computer Science","burp, git","mid",Cybersecurity Analyst
+"security automation, scripting","soc optimization","BS Computer Science","python, splunk","junior",Cybersecurity Analyst
+"incident response, playbooks","soc operations","BS Information Security","thehive, cortex","mid",Cybersecurity Analyst
+"model training, scikit-learn, python","machine learning","BS Data Science","jupyter, pandas","junior",AI Engineer
+"nlp, text processing, python","language models","BS Data Science","spacy, sklearn","junior",AI Engineer
+"feature engineering, pipelines","ml workflows","BS Data Science","mlflow, pandas","mid",AI Engineer
+"deep learning basics, data prep","ai experimentation","BS Computer Science","pytorch, numpy","entry",AI Engineer
+"recommendation systems, evaluation","personalization","BS Data Science","pandas, sklearn","mid",AI Engineer
+"model deployment, flask, api","ml serving","BS Computer Science","docker, fastapi","mid",AI Engineer
+"data labeling, dataset curation","ml data","BS Data Science","label studio, pandas","entry",AI Engineer
+"model monitoring, drift detection","ml ops","BS Data Science","evidently, prometheus","senior",AI Engineer
+"vectorization, tf-idf, n-grams","text classification","BS Data Science","sklearn, jupyter","junior",AI Engineer
+"time series forecasting, evaluation","predictive analytics","BS Data Science","prophet, pandas","mid",AI Engineer
+"hyperparameter tuning, cross validation","model optimization","BS Data Science","optuna, sklearn","senior",AI Engineer
+"data pipelines, feature stores","ml infrastructure","BS Computer Science","airflow, feast","senior",AI Engineer
+"computer vision basics, augmentation","image models","BS Data Science","opencv, numpy","entry",AI Engineer
+"api design, inference latency","production ml","BS Computer Science","docker, gunicorn","mid",AI Engineer
+"experiment tracking, reproducibility","ml research","BS Data Science","mlflow, git","mid",AI Engineer
+"deployment automation, ci/cd","ml ops","BS Computer Science","github actions, docker","senior",AI Engineer
+"data ethics, bias evaluation","responsible ai","BS Data Science","pandas, sklearn","junior",AI Engineer
+"wireframes, user research, figma","usability","BS Design","figma, miro","entry",UI/UX Designer
+"prototypes, interaction design","product design","BS Design","figma, adobe xd","junior",UI/UX Designer
+"design systems, typography","visual design","BS Design","figma, zeplin","mid",UI/UX Designer
+"user flows, personas","ux strategy","BS Design","miro, notion","junior",UI/UX Designer
+"accessibility, heuristics","inclusive design","BS Design","wcag, figma","mid",UI/UX Designer
+"mobile ui, onboarding","app design","BS Design","figma, principle","entry",UI/UX Designer
+"usability testing, interviews","research","BS Design","lookback, dscout","junior",UI/UX Designer
+"responsive layouts, grid systems","web design","BS Design","figma, bootstrap","junior",UI/UX Designer
+"visual hierarchy, color theory","branding","BS Design","figma, illustrator","mid",UI/UX Designer
+"prototype validation, iteration","product experiments","BS Design","figma, maze","junior",UI/UX Designer
+"information architecture, navigation","ux planning","BS Design","miro, figma","mid",UI/UX Designer
+"interaction patterns, microcopy","content design","BS Design","figma, notion","junior",UI/UX Designer
+"design audits, UX reviews","quality","BS Design","figma, jira","mid",UI/UX Designer
+"service design, journey mapping","ux strategy","BS Design","miro, figma","senior",UI/UX Designer
+"collaboration with devs, handoff","design ops","BS Design","zeplin, figma","mid",UI/UX Designer
+"brand guidelines, iconography","visual identity","BS Design","illustrator, figma","mid",UI/UX Designer
+"user feedback analysis, iteration","continuous improvement","BS Design","notion, figma","junior",UI/UX Designer
+"interactive prototypes, motion","experience design","BS Design","after effects, figma","senior",UI/UX Designer
+"product analytics, UX metrics","data-driven design","BS Design","amplitude, figma","mid",UI/UX Designer
+"content strategy, seo, analytics","digital growth","BS Marketing","google analytics, semrush","entry",Digital Marketer
+"social media campaigns, engagement","community building","BS Marketing","meta ads, hootsuite","junior",Digital Marketer
+"email marketing, segmentation","lifecycle marketing","BS Marketing","mailchimp, hubspot","junior",Digital Marketer
+"ppc ads, copywriting","performance marketing","BS Marketing","google ads, keyword planner","mid",Digital Marketer
+"marketing automation, funnels","growth","BS Marketing","hubspot, zapier","mid",Digital Marketer
+"content calendar, brand voice","content marketing","BS Marketing","notion, canva","entry",Digital Marketer
+"seo audits, technical optimization","search marketing","BS Marketing","ahrefs, google search console","mid",Digital Marketer
+"conversion rate optimization, a/b testing","optimization","BS Marketing","optimizely, google optimize","senior",Digital Marketer
+"social listening, sentiment analysis","brand monitoring","BS Marketing","sprout social, brandwatch","mid",Digital Marketer
+"influencer outreach, partnerships","campaigns","BS Marketing","grin, upfluence","junior",Digital Marketer
+"google analytics reporting, dashboards","measurement","BS Marketing","google analytics, data studio","entry",Digital Marketer
+"landing page optimization, ux","lead generation","BS Marketing","unbounce, hotjar","mid",Digital Marketer
+"market research, surveys","insights","BS Marketing","typeform, survey monkey","entry",Digital Marketer
+"creative briefs, ad testing","creative strategy","BS Marketing","meta ads, canva","junior",Digital Marketer
+"crm segmentation, lead scoring","demand generation","BS Marketing","salesforce, hubspot","senior",Digital Marketer
+"affiliate marketing, tracking","partner marketing","BS Marketing","impact, google analytics","mid",Digital Marketer
+"brand storytelling, messaging","brand marketing","BS Marketing","canva, notion","entry",Digital Marketer
+"retention campaigns, lifecycle","customer marketing","BS Marketing","hubspot, mailchimp","mid",Digital Marketer
+"event marketing, webinars","field marketing","BS Marketing","zoom, eventbrite","junior",Digital Marketer
+"social ads optimization, roi","performance","BS Marketing","meta ads, google ads","senior",Digital Marketer
+"python, fastapi, jwt, sql","secure backend APIs","BS Computer Science","docker, postgres, git","junior",Software Developer
+"node.js, express, mongodb","api development","BS Software Engineering","git, postman","entry",Software Developer
+"python, async programming","high concurrency systems","BS Computer Science","asyncio, docker","mid",Software Developer
+"java, spring security","secure enterprise apps","BS Computer Science","maven, mysql","mid",Software Developer
+"php, api development","backend maintenance","BS Computer Science","laravel, git","entry",Software Developer
+"python, microservices","distributed systems","BS Computer Science","docker, kubernetes","senior",Software Developer
+"typescript, backend testing","reliable services","BS Computer Science","jest, git","junior",Software Developer
+"golang, rest api","scalable services","BS Computer Science","docker, grpc","mid",Software Developer
+"python, logging, monitoring","system reliability","BS Computer Science","prometheus, grafana","mid",Software Developer
+"c#, asp.net core","enterprise APIs","BS Computer Science","azure, git","senior",Software Developer
+"sql, joins, reporting","data insights","BS Business Analytics","excel, power bi","entry",Data Analyst
+"python, pandas, visualization","analytics dashboards","BS Data Science","matplotlib, seaborn","junior",Data Analyst
+"sql, etl pipelines","data engineering basics","BS Computer Science","airflow, dbt","mid",Data Analyst
+"excel, dashboards","business reporting","BS Management","excel, power bi","entry",Data Analyst
+"python, statistics","data exploration","BS Statistics","scipy, pandas","junior",Data Analyst
+"sql, metrics analysis","growth tracking","BS Business","tableau, excel","mid",Data Analyst
+"python, clustering","customer segmentation","BS Data Science","sklearn, pandas","mid",Data Analyst
+"excel, forecasting","sales trends","BS Economics","excel","entry",Data Analyst
+"sql, performance analysis","ops analytics","BS Operations","power bi, sql","junior",Data Analyst
+"python, anomaly detection","fraud analytics","BS Data Science","sklearn, pandas","senior",Data Analyst
+"linux, access control","system security","BS Information Security","linux, auditd","entry",Cybersecurity Analyst
+"network scanning, reconnaissance","attack surface analysis","BS Computer Science","nmap, wireshark","junior",Cybersecurity Analyst
+"siem tuning, alerts","threat detection","BS Information Security","splunk","mid",Cybersecurity Analyst
+"cloud security posture","secure cloud infra","BS Computer Science","aws security hub","mid",Cybersecurity Analyst
+"incident handling, forensics","response operations","BS Information Security","volatility","senior",Cybersecurity Analyst
+"phishing detection","email threats","BS Cyber Security","splunk, proofpoint","entry",Cybersecurity Analyst
+"ids tuning, alerts","network defense","BS Computer Science","snort, suricata","mid",Cybersecurity Analyst
+"endpoint protection","host security","BS Information Security","defender, crowdstrike","junior",Cybersecurity Analyst
+"threat modeling","secure design","BS Information Security","stride","senior",Cybersecurity Analyst
+"security reporting","risk communication","BS Information Security","excel, splunk","mid",Cybersecurity Analyst
+"python, ml basics","model building","BS Data Science","sklearn, pandas","entry",AI Engineer
+"nlp pipelines","text analytics","BS Data Science","spacy, sklearn","mid",AI Engineer
+"deep learning fundamentals","neural networks","BS Computer Science","pytorch","junior",AI Engineer
+"model evaluation","ml metrics","BS Data Science","sklearn","mid",AI Engineer
+"ml deployment","production AI","BS Computer Science","docker, fastapi","senior",AI Engineer
+"feature stores","ml infrastructure","BS Computer Science","feast","senior",AI Engineer
+"model explainability","interpretable AI","BS Data Science","shap, lime","mid",AI Engineer
+"data preprocessing","clean datasets","BS Data Science","pandas","entry",AI Engineer
+"ml monitoring","drift detection","BS Data Science","evidently","senior",AI Engineer
+"hyperparameter tuning","optimization","BS Data Science","optuna","mid",AI Engineer
+"user research, interviews","design discovery","BS Design","miro, figma","entry",UI/UX Designer
+"interaction design","user flows","BS Design","figma","junior",UI/UX Designer
+"design systems","scalable UI","BS Design","figma, storybook","mid",UI/UX Designer
+"usability testing","product validation","BS Design","maze","junior",UI/UX Designer
+"mobile UX","app usability","BS Design","figma","entry",UI/UX Designer
+"accessibility audits","inclusive UX","BS Design","wcag","mid",UI/UX Designer
+"design leadership","UX strategy","BS Design","figma","senior",UI/UX Designer
+"visual storytelling","brand experience","BS Design","illustrator","mid",UI/UX Designer
+"product thinking","user-centric design","BS Design","notion, figma","junior",UI/UX Designer
+"motion design","micro interactions","BS Design","after effects","senior",UI/UX Designer
+"seo basics","search visibility","BS Marketing","google search console","entry",Digital Marketer
+"paid ads optimization","performance growth","BS Marketing","google ads","junior",Digital Marketer
+"content marketing","brand awareness","BS Marketing","canva, notion","entry",Digital Marketer
+"analytics interpretation","data-driven marketing","BS Marketing","google analytics","mid",Digital Marketer
+"marketing funnels","lead nurturing","BS Marketing","hubspot","mid",Digital Marketer
+"campaign strategy","brand campaigns","BS Marketing","meta ads","senior",Digital Marketer
+"email campaigns","user retention","BS Marketing","mailchimp","junior",Digital Marketer
+"conversion optimization","landing pages","BS Marketing","hotjar","mid",Digital Marketer
+"influencer marketing","reach growth","BS Marketing","upfluence","entry",Digital Marketer
+"marketing leadership","growth strategy","BS Marketing","hubspot","senior",Digital Marketer
+

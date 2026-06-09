@@ -1,0 +1,142 @@
+title,level,location,required_skills,career_title
+React Developer,Intern,Remote,"React, JavaScript, TypeScript, HTML, CSS, REST API",React Developer
+Entry Angular Developer,Entry,Islamabad,"Angular, TypeScript, RxJS, HTML, CSS",Angular Developer
+Senior Vue.js Developer,Senior,Islamabad,"Vue.js, JavaScript, HTML, CSS, REST API",Vue.js Developer
+Entry Frontend Developer,Entry,Karachi,"HTML, CSS, JavaScript, React, Bootstrap",Frontend Developer
+Entry JavaScript Developer,Entry,Hybrid,"JavaScript, TypeScript, HTML, CSS, Node.js",JavaScript Developer
+Mid Next.js Developer,Mid,Karachi,"Next.js, React, TypeScript, Tailwind CSS",Next.js Developer
+Entry UI Developer,Entry,On-site,"HTML, CSS, JavaScript, Tailwind CSS, Figma",UI Developer
+Tailwind CSS Developer,Intern,Karachi,"Tailwind CSS, HTML, CSS, JavaScript",Tailwind CSS Developer
+Web Accessibility Specialist,Intern,Karachi,"accessibility, HTML, CSS, JavaScript",Web Accessibility Specialist
+Junior jQuery Developer,Junior,Remote,"jQuery, JavaScript, HTML, CSS",jQuery Developer
+Mid Python Developer,Mid,Remote,"Python, Flask, FastAPI, SQL, Git",Python Developer
+Junior Django Developer,Junior,Hybrid,"Python, Django, REST API, PostgreSQL, Git",Django Developer
+Mid Flask Developer,Mid,Hybrid,"Python, Flask, REST API, SQL",Flask Developer
+Entry FastAPI Developer,Entry,Islamabad,"Python, FastAPI, REST API, PostgreSQL",FastAPI Developer
+Senior Node.js Developer,Senior,Lahore,"Node.js, Express.js, JavaScript, MongoDB, REST API",Node.js Developer
+Senior Express.js Developer,Senior,Hybrid,"Express.js, Node.js, JavaScript, MongoDB",Express.js Developer
+PHP Developer,Intern,Islamabad,"PHP, MySQL, REST API, Git",PHP Developer
+Laravel Developer,Intern,Lahore,"Laravel, PHP, MySQL, REST API",Laravel Developer
+Mid Ruby on Rails Developer,Mid,Remote,"Ruby, REST API, PostgreSQL, Git",Ruby on Rails Developer
+Junior Java Backend Developer,Junior,Karachi,"Java, Spring Boot, SQL, REST API",Java Backend Developer
+Spring Boot Developer,Intern,Remote,"Spring Boot, Java, REST API, PostgreSQL",Spring Boot Developer
+Go Developer,Intern,Hybrid,"Go, REST API, Docker, PostgreSQL",Go Developer
+Junior C# Developer,Junior,Remote,"C#, .NET, SQL, REST API",C# Developer
+Junior .NET Developer,Junior,Islamabad,".NET, C#, Microsoft SQL Server, REST API",.NET Developer
+Full Stack Developer,Intern,Remote,"JavaScript, React, Node.js, SQL, Git",Full Stack Developer
+Senior MERN Stack Developer,Senior,Islamabad,"MongoDB, Express.js, React, Node.js",MERN Stack Developer
+Mid MEAN Stack Developer,Mid,On-site,"MongoDB, Express.js, Angular, Node.js",MEAN Stack Developer
+Senior WordPress Developer,Senior,Hybrid,"WordPress, PHP, MySQL, HTML, CSS",WordPress Developer
+Mid Shopify Developer,Mid,Hybrid,"Shopify, Liquid, JavaScript, HTML, CSS",Shopify Developer
+Entry Magento Developer,Entry,Islamabad,"Magento, PHP, MySQL, JavaScript",Magento Developer
+Entry Drupal Developer,Entry,On-site,"Drupal, PHP, MySQL, HTML",Drupal Developer
+WooCommerce Developer,Intern,Karachi,"WordPress, WooCommerce, PHP, CSS",WooCommerce Developer
+Entry Webflow Developer,Entry,Remote,"Webflow, HTML, CSS, JavaScript",Webflow Developer
+Mid Headless CMS Developer,Mid,On-site,"Next.js, React, GraphQL, REST API",Headless CMS Developer
+Junior Jamstack Developer,Junior,Hybrid,"Next.js, React, GraphQL, Tailwind CSS",Jamstack Developer
+Mid Android Developer,Mid,Remote,"Kotlin, Java, Android, REST API, Firebase",Android Developer
+Mid iOS Developer,Mid,Karachi,"Swift, iOS, REST API, Firebase",iOS Developer
+Senior Flutter Developer,Senior,Remote,"Flutter, Dart, REST API, Firebase",Flutter Developer
+React Native Developer,Intern,Remote,"React Native, React, JavaScript, REST API",React Native Developer
+Kotlin Developer,Intern,On-site,"Kotlin, Android, REST API",Kotlin Developer
+Entry Swift Developer,Entry,Lahore,"Swift, iOS, REST API",Swift Developer
+Mid Mobile App Developer,Mid,Islamabad,"Flutter, React Native, REST API, Firebase",Mobile App Developer
+Entry Ionic Developer,Entry,Lahore,"Ionic, Angular, TypeScript, REST API",Ionic Developer
+Junior Game Developer,Junior,Karachi,"C#, Unity, C++, problem solving",Game Developer
+Entry AR/VR Developer,Entry,Lahore,"Unity, C#, computer vision basics, 3D",AR/VR Developer
+Junior Data Analyst,Junior,Remote,"SQL, Excel, Power BI, Tableau, Statistics",Data Analyst
+Data Scientist,Intern,Hybrid,"Python, Pandas, Machine Learning, SQL, Statistics",Data Scientist
+Entry Data Engineer,Entry,Islamabad,"Python, SQL, Apache Spark, Airflow, dbt",Data Engineer
+Senior Business Intelligence Analyst,Senior,Lahore,"Power BI, SQL, Tableau, Excel",Business Intelligence Analyst
+BI Developer,Intern,On-site,"Power BI, SQL, data modeling, dbt",BI Developer
+Analytics Engineer,Intern,Hybrid,"dbt, SQL, Python, data modeling",Analytics Engineer
+Big Data Engineer,Intern,Karachi,"Apache Spark, Hadoop, Python, SQL",Big Data Engineer
+Senior Data Architect,Senior,Remote,"data modeling, SQL, data warehousing, ETL",Data Architect
+Junior Statistician,Junior,Islamabad,"Statistics, R, Python, data visualization",Statistician
+Entry Marketing Analyst,Entry,Lahore,"Google Analytics, SQL, Excel, data visualization",Marketing Analyst
+Senior Quantitative Analyst,Senior,On-site,"Python, Statistics, R, data modeling",Quantitative Analyst
+Entry Bioinformatics Analyst,Entry,On-site,"Python, R, Statistics, data analysis",Bioinformatics Analyst
+Junior AI Engineer,Junior,Lahore,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch",AI Engineer
+Entry Machine Learning Engineer,Entry,Islamabad,"Python, Scikit-learn, Machine Learning, PyTorch, MLOps",Machine Learning Engineer
+Entry Deep Learning Engineer,Entry,Islamabad,"Python, Deep Learning, TensorFlow, PyTorch",Deep Learning Engineer
+Entry NLP Engineer,Entry,Karachi,"Python, NLP, PyTorch, Hugging Face",NLP Engineer
+Mid Computer Vision Engineer,Mid,On-site,"Python, OpenCV, Deep Learning, PyTorch",Computer Vision Engineer
+Mid Generative AI Engineer,Mid,On-site,"Python, LLMs, Prompt Engineering, Hugging Face",Generative AI Engineer
+Mid AI Prompt Engineer,Mid,Lahore,"Prompt Engineering, LLMs, Python",AI Prompt Engineer
+Junior MLOps Engineer,Junior,Hybrid,"MLOps, Docker, Kubernetes, Python, CI/CD",MLOps Engineer
+Robotics Engineer,Intern,Islamabad,"Python, C++, computer vision basics, control systems",Robotics Engineer
+Mid DevOps Engineer,Mid,Lahore,"Docker, Kubernetes, AWS, CI/CD, Linux",DevOps Engineer
+Mid Cloud Engineer,Mid,Remote,"AWS, Docker, Terraform, Linux",Cloud Engineer
+Mid AWS Solutions Architect,Mid,Hybrid,"AWS, Terraform, Docker, networking",AWS Solutions Architect
+Junior Azure Engineer,Junior,Hybrid,"Azure, Docker, CI/CD, Terraform",Azure Engineer
+Mid GCP Engineer,Mid,Karachi,"Google Cloud, Docker, Kubernetes, Terraform",GCP Engineer
+Site Reliability Engineer,Intern,Karachi,"Kubernetes, Prometheus, Linux, CI/CD",Site Reliability Engineer
+Entry Platform Engineer,Entry,Hybrid,"Kubernetes, Terraform, Docker, CI/CD",Platform Engineer
+Entry Kubernetes Administrator,Entry,Karachi,"Kubernetes, Docker, Linux, Helm",Kubernetes Administrator
+Mid Infrastructure Engineer,Mid,Lahore,"Terraform, AWS, Linux, Ansible",Infrastructure Engineer
+Senior Release Engineer,Senior,Islamabad,"CI/CD, Jenkins, Git, Docker",Release Engineer
+Entry Cloud Security Engineer,Entry,Karachi,"cloud security, AWS, Network Security, compliance",Cloud Security Engineer
+Entry Cybersecurity Analyst,Entry,On-site,"Network Security, Splunk, Linux, Incident Response",Cybersecurity Analyst
+Mid Security Engineer,Mid,On-site,"Network Security, Cryptography, Linux, cloud security",Security Engineer
+Entry Penetration Tester,Entry,Lahore,"Penetration Testing, Burp Suite, Kali Linux, Ethical Hacking",Penetration Tester
+Senior SOC Analyst,Senior,Lahore,"SIEM, Splunk, Network Security, Incident Response",SOC Analyst
+Senior Information Security Analyst,Senior,Karachi,"Network Security, compliance, risk assessment",Information Security Analyst
+Entry Network Security Engineer,Entry,Islamabad,"Network Security, Firewalls, networking, Linux",Network Security Engineer
+Entry Application Security Engineer,Entry,Remote,"Penetration Testing, Burp Suite, API security",Application Security Engineer
+Junior Security Architect,Junior,Hybrid,"Network Security, Cryptography, cloud security, compliance",Security Architect
+Senior Incident Responder,Senior,On-site,"Incident Response, SIEM, Splunk, forensics",Incident Responder
+Junior Malware Analyst,Junior,Islamabad,"malware analysis, reverse engineering, Kali Linux",Malware Analyst
+Entry Ethical Hacker,Entry,Islamabad,"Ethical Hacking, Penetration Testing, Kali Linux, Burp Suite",Ethical Hacker
+Mid UI/UX Designer,Mid,Islamabad,"Figma, Adobe XD, Wireframing, Prototyping, User Research",UI/UX Designer
+Entry Product Designer,Entry,On-site,"Figma, Prototyping, User Research, Design Systems",Product Designer
+Senior UX Researcher,Senior,Hybrid,"User Research, usability testing, Figma",UX Researcher
+Senior Graphic Designer,Senior,On-site,"Photoshop, Illustrator, Typography, Canva",Graphic Designer
+Visual Designer,Intern,Hybrid,"Figma, Photoshop, Typography, color theory",Visual Designer
+Junior Interaction Designer,Junior,Lahore,"Figma, Prototyping, Interaction Design",Interaction Designer
+Entry Motion Designer,Entry,Islamabad,"Adobe After Effects, motion, animation",Motion Designer
+Mid Brand Designer,Mid,Lahore,"Illustrator, brand guidelines, Typography",Brand Designer
+Web Designer,Intern,Islamabad,"Figma, HTML, CSS, Webflow",Web Designer
+Senior Design Systems Engineer,Senior,Islamabad,"Figma, Design Systems, HTML, CSS",Design Systems Engineer
+Digital Marketer,Intern,On-site,"SEO, Google Ads, Google Analytics, content marketing",Digital Marketer
+Senior SEO Specialist,Senior,Remote,"SEO, Google Analytics, content strategy, keyword research",SEO Specialist
+Entry Content Marketer,Entry,Islamabad,"content marketing, copywriting, SEO, content strategy",Content Marketer
+Senior Social Media Manager,Senior,Islamabad,"Social Media Marketing, Canva, content strategy",Social Media Manager
+Junior Performance Marketer,Junior,Karachi,"Meta Ads, Google Ads, conversion optimization",Performance Marketer
+Entry Email Marketing Specialist,Entry,Remote,"Email Marketing, Mailchimp, HubSpot, copywriting",Email Marketing Specialist
+Senior Growth Marketer,Senior,Karachi,"Growth Marketing, Google Analytics, conversion optimization",Growth Marketer
+Junior PPC Specialist,Junior,On-site,"Google Ads, Meta Ads, conversion optimization",PPC Specialist
+Entry Affiliate Marketing Manager,Entry,Lahore,"Affiliate Marketing, SEO, Google Analytics",Affiliate Marketing Manager
+Junior Brand Manager,Junior,Karachi,"Brand Strategy, content strategy, Communication",Brand Manager
+Entry Copywriter,Entry,Hybrid,"copywriting, content strategy, SEO",Copywriter
+Mid Content Strategist,Mid,Islamabad,"content strategy, SEO, content marketing",Content Strategist
+Junior Influencer Marketing Manager,Junior,Hybrid,"Social Media Marketing, Brand Strategy, Communication",Influencer Marketing Manager
+Product Manager,Intern,Hybrid,"Project Management, Agile, Communication, Stakeholder Management",Product Manager
+Junior Project Manager,Junior,On-site,"Project Management, Agile, Jira, Communication",Project Manager
+Senior Scrum Master,Senior,Lahore,"Scrum, Agile, Jira, Communication",Scrum Master
+Mid Business Analyst,Mid,Karachi,"Business Analysis, SQL, Communication, Problem Solving",Business Analyst
+Junior Product Owner,Junior,Lahore,"Agile, Scrum, Stakeholder Management",Product Owner
+Senior Program Manager,Senior,On-site,"Project Management, Stakeholder Management, Communication",Program Manager
+Mid Technical Program Manager,Mid,On-site,"Project Management, Agile, Communication",Technical Program Manager
+Mid Agile Coach,Mid,Hybrid,"Agile, Scrum, Communication, Leadership",Agile Coach
+Operations Manager,Intern,Lahore,"Operations, Leadership, Communication",Operations Manager
+Senior Strategy Analyst,Senior,Remote,"Business Analysis, Excel, Communication",Strategy Analyst
+Entry QA Engineer,Entry,Remote,"Selenium, Test Automation, Jira, Problem Solving",QA Engineer
+Junior Test Automation Engineer,Junior,On-site,"Selenium, Test Automation, Python, CI/CD",Test Automation Engineer
+Junior Manual QA Tester,Junior,Remote,"manual testing, Jira, test cases",Manual QA Tester
+Entry SDET,Entry,Remote,"Test Automation, Selenium, Java, CI/CD",SDET
+Entry Performance Test Engineer,Entry,Remote,"JMeter, performance testing, Test Automation",Performance Test Engineer
+Entry Quality Analyst,Entry,Hybrid,"manual testing, test cases, Jira",Quality Analyst
+Entry Database Administrator,Entry,Hybrid,"SQL, PostgreSQL, MySQL, Linux",Database Administrator
+Entry Database Developer,Entry,Karachi,"SQL, PostgreSQL, data modeling",Database Developer
+Mid ETL Developer,Mid,Hybrid,"ETL, SQL, Python, data warehousing",ETL Developer
+Entry Systems Administrator,Entry,Karachi,"Linux, Bash, networking, Git",Systems Administrator
+Junior Network Engineer,Junior,Karachi,"networking, Linux, Firewalls",Network Engineer
+Mid Embedded Systems Engineer,Mid,On-site,"C++, C, embedded, Linux",Embedded Systems Engineer
+Entry IoT Developer,Entry,Karachi,"Python, C++, embedded, REST API",IoT Developer
+Entry Blockchain Developer,Entry,Hybrid,"Solidity, blockchain, JavaScript, REST API",Blockchain Developer
+Senior Technical Writer,Senior,On-site,"technical writing, Communication, Markdown",Technical Writer
+Mid Developer Advocate,Mid,Karachi,"Communication, Python, public speaking",Developer Advocate
+Computer Graphics Engineer,Intern,Lahore,"C++, OpenGL, 3D, mathematics",Computer Graphics Engineer
+Senior Solutions Engineer,Senior,On-site,"Communication, REST API, SQL, Problem Solving",Solutions Engineer
+Junior Sales Engineer,Junior,Hybrid,"Communication, REST API, Problem Solving",Sales Engineer
+Senior IT Support Specialist,Senior,Lahore,"Linux, networking, troubleshooting, Communication",IT Support Specialist
