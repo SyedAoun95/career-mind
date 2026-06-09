@@ -5,7 +5,17 @@ PHP, Python, or MySQL — only Docker.
 
 ## Prerequisites
 
-- [Docker Desktop](https://www.docker.com/products/docker-desktop/) installed and running.
+You need the Docker engine + CLI. Pick **one**:
+
+- **Docker Desktop** (GUI) — <https://www.docker.com/products/docker-desktop/>. Install, then launch it once.
+- **CLI only, no GUI (macOS)** — run the included installer (uses Homebrew + Colima, fully free):
+  ```bash
+  ./install-docker-mac.sh
+  ```
+  After a reboot, start the engine again with `colima start`.
+
+> Getting `zsh: command not found: docker`? That means the Docker **CLI** isn't on
+> your PATH yet — run `./install-docker-mac.sh` (macOS) or install Docker Desktop.
 
 ## Run it
 
