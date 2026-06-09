@@ -19,12 +19,47 @@ This gives you `git` and **Git Bash**.
 Docker on Windows runs on the **WSL2** engine (a lightweight Linux layer built into
 Windows). Docker Desktop sets this up for you.
 
+**Option 1 — command line (recommended).** Open **PowerShell as Administrator** and
+run the included installer (uses `winget` + WSL2):
+
+```powershell
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+.\install-docker-windows.ps1
+```
+
+Or do it as two plain commands without the script:
+
+```powershell
+wsl --install
+winget install -e --id Docker.DockerDesktop
+```
+
+**Option 2 — manual download.**
 1. Download **Docker Desktop for Windows** from
    <https://www.docker.com/products/docker-desktop/>.
 2. Run the installer and **leave "Use WSL 2 instead of Hyper-V" checked**.
 3. Restart the PC if it asks you to.
-4. Launch **Docker Desktop** and wait until the whale icon in the system tray says
-   **"Docker Desktop is running"**.
+
+Either way, then:
+- Reboot if Windows asked you to (needed the first time WSL2 is enabled).
+- Launch **Docker Desktop** and wait until the whale icon in the system tray says
+  **"Docker Desktop is running"**.
+- In a **new** PowerShell window, verify: `docker --version`
+
+### CLI-only, no Docker Desktop (advanced)
+If you want Docker with no GUI at all (the Windows equivalent of Colima on Mac),
+run the Docker engine inside WSL2:
+
+```powershell
+wsl --install          # installs Ubuntu; reboot if asked, then open "Ubuntu"
+```
+Then **inside the Ubuntu (WSL) shell**:
+```bash
+curl -fsSL https://get.docker.com | sh      # installs docker + compose
+sudo service docker start                    # start the engine
+```
+Clone and run the project from inside that Ubuntu shell (not PowerShell). For most
+people Docker Desktop is simpler — use this only if you specifically want no GUI.
 
 > If Docker says WSL2 is missing, open **PowerShell as Administrator** and run:
 > ```powershell
